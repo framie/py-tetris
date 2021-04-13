@@ -2,7 +2,7 @@
 Tetris written in Python using Pygame
 
 TODO
-- Implement basic tetrimino behaviour and manipulation
+- Basic tetrimino behaviour and manipulation
 - End state
 - Accurate tetrimino randomisation
 - Scoring and difficulty
