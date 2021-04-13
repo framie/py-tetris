@@ -6,5 +6,6 @@ TODO
 - End state
 - Accurate tetrimino randomisation
 - Scoring and difficulty
+- Advanced move detection (T-Spin)
 - Instanced game environment
 - Per-instance control configuration
